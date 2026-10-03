@@ -1,0 +1,3 @@
+/* rev-a7c31e-20261003 */
+USAGE.txt
+run rufus-4.15.exe, pick USB, pick ISO, Start
