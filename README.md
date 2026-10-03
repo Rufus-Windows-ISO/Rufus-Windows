@@ -3,7 +3,7 @@
 **Rufus** 4.15 (June 30, 2026) writes a bootable USB. rufus download, download rufus, rufus windows 11, rufus iso, rufus usb, rufus windows 10, rufus bootable usb, rufus.ie. rufus ubuntu and rufus linux ISOs. Portable `rufus-4.15p.exe`.
 
 
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/c2cb2bd8-aeb7-4b59-8f96-eccefd3c2663" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/c2cb2bd8-aeb7-4b59-8f96-eccefd3c2663" />
 
 <img width="1060" height="790" alt="images1" src="https://github.com/user-attachments/assets/283764af-3a99-4af2-b831-9c203679fcfa" />
 <img width="1060" height="790" alt="images2" src="https://github.com/user-attachments/assets/da0b1bed-85e1-40bc-ba24-dd1b6d4ce4ea" />
